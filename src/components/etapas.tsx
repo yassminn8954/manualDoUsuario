@@ -15,7 +15,7 @@ export const etapas: Etapa[] = [
       },
       {
         tipo: "codigo",
-        conteudo: `kkkkkkkkkkkkkkkkkkkkkFROM node:20-alpine AS build
+        conteudo: `FROM node:20-alpine AS build
                     WORKDIR /app
                     COPY package*.json ./
                     RUN npm install
