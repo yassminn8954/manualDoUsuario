@@ -1,6 +1,6 @@
 
 import "./App.css";
-import { etapas } from "./components/etapa";
+import { etapas } from "./components/etapas";
 import EtapaSecao from "./components/EtapaSecao";
 
 export default function App() {
