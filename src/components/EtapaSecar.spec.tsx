@@ -10,7 +10,7 @@ const etapaExemplo: Etapa = {
   titulo: "Etapa de exemplo",
   blocos: [
     { tipo: "texto", conteudo: "Um parágrafo explicativo." },
-    { tipo: "codigo", conteudo: "echo 'olá'" },wvw
+    { tipo: "codigo", conteudo: "echo 'olá'" },
   ],
 };
 
