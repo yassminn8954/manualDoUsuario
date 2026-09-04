@@ -6,4 +6,3 @@ dist
 *.test.ts
 *.test.tsx
 coverage
-README.md
